@@ -29,7 +29,7 @@ Built as a **one-person initiative** during the early months of the COVID-19 pan
 
 ## COVID-19 Tracker
 
-During the pandemic, Mianwali Today provided the district’s only COVID-19 case tracker, updated daily using verified district health data.
+During the pandemic, Mianwali Today provided the district’s only COVID-19 case tracker, updated daily using verified district health data (source: District Headquaters Hospital, Mianwali)
 (Archived copy not available; see testimonials and press releases for user impact.)
 
 ---
