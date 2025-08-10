@@ -61,7 +61,7 @@ During the pandemic, Mianwali Today provided the district’s only COVID-19 case
 
 | Homepage | Update Summary of First Major Update | Google Reviews |
 |----------|-----------------|----------------|
-| ![Homepage](screenshots/homepage.png) | ![Update Summary](screenshots/update-summary.png) | ![Google Reviews](screenshots/analytics.png) |
+| ![Homepage](screenshots/homepage.png) | ![Update Summary](screenshots/update-summary.png) | ![Google Reviews](screenshots/analytics.jpg) |
 
 ---
 
