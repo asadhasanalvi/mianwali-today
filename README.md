@@ -27,6 +27,13 @@ Built as a **one-person initiative** during the early months of the COVID-19 pan
 - Partnered with **district police** to share verified safety guidelines, news and official announcements.
 ---
 
+## COVID-19 Tracker
+
+During the pandemic, Mianwali Today provided the district’s only COVID-19 case tracker, updated daily using verified district health data.
+(Archived copy not available; see testimonials and press releases for user impact.)
+
+---
+
 ## 💻 Technology
 
 - Built using **Webnode** website builder. (Now inactive)
@@ -36,7 +43,7 @@ Built as a **one-person initiative** during the early months of the COVID-19 pan
 
 ## 📷 Screenshots
 
-| Homepage | COVID-19 Tracker | Google Reviews |
+| Homepage | Update Summary of First Major Update | Google Reviews |
 |----------|-----------------|----------------|
 | ![Homepage](screenshots/homepage.png) | ![Update Summary](screenshots/update-summary.png) | ![Google Reviews](screenshots/google-reviews.png) |
 
