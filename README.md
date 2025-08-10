@@ -83,6 +83,6 @@ During the pandemic, Mianwali Today provided the district’s only COVID-19 case
 ---
 
 ## Created by Asad Hasan Alvi
-GitHub: [github.com/your-username](https://github.com/asadhasanalvi)
+GitHub: [github.com/asadhasanalvi](https://github.com/asadhasanalvi)
 
 > *Mianwali Today was more than a news site — it was a lifeline for a community during an unprecedented crisis.*
