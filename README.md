@@ -3,7 +3,7 @@ First-ever news website for Mianwali — local news &amp; exclusive COVID-19 tra
 
 # Mianwali Today — First Digital News Platform for Mianwali
 
-**Summer 2020 — Founder & Developer:** *[Your Name]*
+**Summer 2020 — Founder, CEO & Developer:** *Asad Hasan Alvi*
 
 Mianwali Today was the **first-ever local news and COVID-19 tracker** for the Mianwali District, Pakistan.  
 Built as a **one-person initiative** during the early months of the COVID-19 pandemic, the platform provided real-time updates, local news, and safety information to thousands of residents — in collaboration with the district police.
